@@ -7,3 +7,6 @@ npm i -D daisyui@latest
 npm install react-icons
 npm i D json-server
 npm run json-server
+
+https://tailwindcss.com/docs/guides/nextjs
+https://daisyui.com/components/input/
