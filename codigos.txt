@@ -1,0 +1,9 @@
+npx create-next-app@latest --experimental-app
+npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i -D daisyui@latest
+npm install react-icons
+npm i D json-server
+npm run json-server
